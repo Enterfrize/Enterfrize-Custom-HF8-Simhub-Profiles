@@ -22,12 +22,12 @@ IL2 STURMOVIK
 
 I. PLANES
 
-•	Gun shaking
-•	Positional engine RPMs
-•	Positional damage (when you get hit, you get HIT for real!)
-•	Bomb sensations
-•	Rocket sensations
-•	Landing gear sensations
+- Gun shaking
+- Positional engine RPMs
+- Positional damage (when you get hit, you get HIT for real!)
+- Bomb sensations
+- Rocket sensations
+- Landing gear sensations
 
 I'm kind of proud that everything has a bit of a physics to it. For example, big bombs feel different from small bombs. Incoming impacts feel different depending on how powerful the bullets are and where they are coming from, etc.
 
