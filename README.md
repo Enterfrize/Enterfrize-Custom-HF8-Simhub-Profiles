@@ -6,7 +6,7 @@ These profiles will only work with Simhub.  They were calibrated on a Next Level
 
 Here are the game experiences I’ve enhanced and why I think they are so great!
 
-ELITE DANGEROUS ODYSSEY
+<b>ELITE DANGEROUS ODYSSEY</b>
 
 Special thanks to Simhub for expanding the variables they make available to work with.  This profile includes:
 
