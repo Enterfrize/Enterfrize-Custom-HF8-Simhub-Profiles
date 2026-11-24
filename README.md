@@ -18,7 +18,7 @@ Special thanks to Simhub for expanding the variables they make available to work
 - Landing gear effects
 - Ship cargo scoop effects
 
-IL2 STURMOVIK
+<b>IL2 STURMOVIK</b>
 
 I. PLANES
 
@@ -41,7 +41,7 @@ IL2 tank telemetry is horrible and not nearly as detailed as plane telemetry. Ho
 - Movement and terrain
 
 
-MSFS 2024
+<b>MSFS 2024</b>
 
 Added new effects for:
 
