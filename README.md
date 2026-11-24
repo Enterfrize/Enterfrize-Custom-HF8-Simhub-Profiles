@@ -4,18 +4,19 @@ I love everything immersive, and I’m a big fan of technologies like virtual re
 These profiles will only work with Simhub.  They are calibrated on a Next Level Racing HF8 Pro, but will also work on the standard HF8 provided you increase the gain settings.  Other bass shaker setups should work, but you will need to test.
 Here are the game experiences I’ve enhanced and why I think they are so great!
 
-Elite Dangerous Odyssey
-Special thanks to Simhub for expanding the variables they make available to work with.  This profile includes:
-This profile covers just about everything:
-•	Ship movement and physics (truly positional!)
-•	SRV movement and physics.  You will feel every bump and thump under each of your tires!
-•	New jump drive effects
-•	New base docking effects
-•	Shields up and down effects
-•	Landing gear effects
-•	Ship cargo scoop effects
+ELITE DANGEROUS ODYSSEY
 
-IL2 Sturmovik
+Special thanks to Simhub for expanding the variables they make available to work with.  This profile includes:
+
+- Ship movement and physics (truly positional!)
+- SRV movement and physics.  You will feel every bump and thump under each of your tires!
+- New jump drive effects
+- New base docking effects
+- Shields up and down effects
+- Landing gear effects
+- Ship cargo scoop effects
+
+IL2 STURMOVIK
 
 I. PLANES
 
@@ -27,19 +28,21 @@ I. PLANES
 •	Landing gear sensations
 
 I'm kind of proud that everything has a bit of a physics to it. For example, big bombs feel different from small bombs. Incoming impacts feel different depending on how powerful the bullets are and where they are coming from, etc.
+
 II. TANKS
 
 IL2 tank telemetry is horrible and not nearly as detailed as plane telemetry. However, I figured out a way to extrapolate the sensations I needed from the game's physics. Could still be better of course! I think you will like it. :-)
 
-•	RPM
-•	Big Gun sensations (machine gun is still silent). BIG improvement with this.
-•	Damage and collisions. BIG improvement with this.
-•	Movement and terrain
+- RPM
+- Big Gun sensations (machine gun is still silent). BIG improvement with this.
+- Damage and collisions. BIG improvement with this.
+- Movement and terrain
 
 
 MSFS 2024
 
 Added new effects for:
-•	Positional engine RPMs
-•	Sensations when adjusting flaps
-•	Speed brake sensations
+
+- Positional engine RPMs
+- Sensations when adjusting flaps
+- Speed brake sensations
