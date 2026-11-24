@@ -1,6 +1,6 @@
 # Enterfrize-s-Custom-HF8-HF8-Pro-Simhub-Profiles
 
-I love everything immersive, and I’m a big fan of technologies like virtual reality and haptics.  I own the Next Level Racing HF8 Pro, and for the longest time, I’ve been eager to improve on the haptics experience.  Unfortunately, the math and formulas were always beyond me.  Thanks to artificial intelligence, hours and hours of patience, and my well shaken bum, I think you will find these profiles very rewarding.
+I love everything immersive, and I’m a big fan of technologies like virtual reality and haptics.  I own the Next Level Racing HF8 Pro, and for the longest time, I’ve been eager to improve on the haptics experience.  Unfortunately, the math and formulas were always beyond me.  Thanks to artificial intelligence (Google Gemini), hours and hours of patience, and my well shaken bum, I think you will find these profiles very rewarding.
 
 These profiles will only work with Simhub.  They were calibrated on a Next Level Racing HF8 Pro, but will also work on the standard HF8 provided you increase the gain settings.  Other bass shaker setups should work, but you will need to test.
 
