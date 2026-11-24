@@ -45,4 +45,4 @@ Added new effects for:
 
 - Positional engine RPMs
 - Sensations when adjusting flaps
-- Speed brake sensations
+- Spoiler sensations
